@@ -1,4 +1,4 @@
-# Analysing the Wahl-O-Mat about the 2019 EU election
+# Analysing the Wahl-O-Mat about the 2019 Saxony election
 
 ### Results
 
